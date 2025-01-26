@@ -4,6 +4,9 @@
 
 <p align="left">I'm a Computer Science student specializing in Networks and Systems Administration at the Higher Institute of Engineering of Coimbra.</p>
 
+<div align="center">
+  <img src="giphy.gif" height="100">
+</div>
 ###
 
 <div align="center">
@@ -56,7 +59,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
 </div>
-
 
 <img src="https://raw.githubusercontent.com/rafaelp3re1ra/rafaelp3re1ra/output/snake.svg" alt="Snake animation" />
 
