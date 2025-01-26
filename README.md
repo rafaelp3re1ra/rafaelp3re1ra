@@ -57,9 +57,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
 </div>
 
-###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/rafaelp3re1ra/rafaelp3re1ra/output/snake.svg" alt="Snake animation" />
 
