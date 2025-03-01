@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Computer Science student specializing in Networks and Systems Administration at the Higher Institute of Engineering of Coimbra.</p>
+<p align="left">I'm a Computer Engineering student specializing in Networks and Systems Administration at the Higher Institute of Engineering of Coimbra.</p>
 
 <div align="center">
   <img src="giphy.gif" height="100">
