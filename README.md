@@ -1,21 +1,15 @@
 <h2 align="left">Hello there! I'm Rafael 👋</h2>
 
-###
-
 <p align="left">I'm a Computer Engineering student specializing in Networks and Systems Administration at the Higher Institute of Engineering of Coimbra.</p>
 
 <div align="center">
   <img src="giphy.gif" height="100">
 </div>
 
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelp3re1ra&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats-git-main-rafaelp3re1ras-projects.vercel.app/api/top-langs?username=rafaelp3re1ra&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=20&theme=dark&hide_border=true"  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rafaelp3re1ra"  />  
 </div>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
@@ -59,10 +53,6 @@
 
 <img src="https://raw.githubusercontent.com/rafaelp3re1ra/rafaelp3re1ra/output/snake.svg" alt="Snake animation" />
 
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/rafaelp3re1ra/count.svg?"  />
 </div>
-
-###
