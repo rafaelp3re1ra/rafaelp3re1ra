@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-main-rafaelp3re1ras-projects.vercel.app/api/top-langs?username=rafaelp3re1ra&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=20&theme=dark&hide_border=true"  />
+  <img src="https://github-readme-stats-git-main-rafaelp3re1ras-projects.vercel.app/api/top-langs?username=rafaelp3re1ra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=dark&hide_border=false"  />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rafaelp3re1ra"  />  
 </div>
 
