@@ -6,12 +6,21 @@
   <img src="giphy.gif" height="100">
 </div>
 
+###
+
 <div align="center">
-  <img src="https://github-readme-stats-git-main-rafaelp3re1ras-projects.vercel.app/api/top-langs?username=rafaelp3re1ra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=dark&hide_border=false"  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rafaelp3re1ra"  />  
+  <div align="left">
+    <h2>Cisco Certificates</h2>
+  </div>
+  <a href="https://www.credly.com/badges/ccc26bc5-efc1-4e5e-9043-37f4e7a4f596/public_url"><img src="ccna-introduction-to-networks.png" height="150"/></a> 
 </div>
 
-<div align="left">
+###
+
+<div align="center">
+  <div align="left">
+    <h2>Skills</h2>
+  </div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -36,7 +45,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex logo" styles="background-color: white" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
@@ -51,7 +60,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/rafaelp3re1ra/rafaelp3re1ra/output/snake.svg" alt="Snake animation" />
+###
+
+<div align="center">
+  <div align="left">
+    <h2>Stats</h2>
+  </div>
+  <img src="https://raw.githubusercontent.com/rafaelp3re1ra/rafaelp3re1ra/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats-git-main-rafaelp3re1ras-projects.vercel.app/api/top-langs?username=rafaelp3re1ra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=dark&hide_border=false"  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rafaelp3re1ra"  height="300"/>  
+</div>
+
+###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/rafaelp3re1ra/count.svg?"  />
