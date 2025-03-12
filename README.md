@@ -15,7 +15,9 @@
   <div align="left">
     <h2>Cisco Certificates</h2>
   </div>
-  <a href="https://www.credly.com/badges/ccc26bc5-efc1-4e5e-9043-37f4e7a4f596/public_url"><img src="./icons/ccna-introduction-to-networks.png" height="150"/></a> 
+  	<a href="https://www.credly.com/badges/ccc26bc5-efc1-4e5e-9043-37f4e7a4f596/public_url"><img src="./icons/ccna-introduction-to-networks.png" height="150"/></a>
+	<img width="150" />
+	<a href="https://www.credly.com/badges/261f9c14-c42e-4b2c-b017-43024d6c825c/public_url"><img src="./icons/network-security.png" height="150"/></a> 
 </div>
 
 <div align="center">
@@ -78,8 +80,6 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rafaelp3re1ra" height="300"/>  
   </div>
 </div>
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/rafaelp3re1ra/count.svg?"  />
