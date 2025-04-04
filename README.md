@@ -19,6 +19,8 @@
   	<a href="https://www.credly.com/badges/ccc26bc5-efc1-4e5e-9043-37f4e7a4f596/public_url"><img src="./icons/ccna-introduction-to-networks.png" height="150"/></a>
 	<img width="150" />
 	<a href="https://www.credly.com/badges/261f9c14-c42e-4b2c-b017-43024d6c825c/public_url"><img src="./icons/network-security.png" height="150"/></a> 
+	<img width="150" />
+	<a href="https://www.credly.com/badges/f8f8015e-b382-4615-843b-74a81e922ff9/public_url"><img src="./icons/computer-hardware-basics.png" height="150"/></a> 
 </div>
 
 <div align="center">
