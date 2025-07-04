@@ -1,83 +1,73 @@
-<h2 align="left">Hello there! I'm Rafael 👋</h2>
+## Hello there! I'm Rafael 👋
 
-<p align="left">I'm a Computer Engineering student specializing in Networks and Systems Administration at the Higher Institute of Engineering of Coimbra.</p>
+I'm a Computer Engineering student specializing in Networks and Systems Administration at the Higher Institute of Engineering of Coimbra.
 
-<div align="center">
-  <img src="giphy.gif" height="100">
-</div>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<img width="12">
-<a href="https://linkedin.com/in/rafaelp3re1ra" target="blank"><img align="center" src="./icons/linkedin.svg" alt="rafaelp3re1ra" height="30" width="40" /></a>
+<p align="center">
+  <img src="giphy.gif" alt="Funny gif" width="200" />
 </p>
 
-<div align="center">
-  <div align="left">
-    <h2>Cisco Certificates</h2>
-  </div>
-  	<a href="https://www.credly.com/badges/ccc26bc5-efc1-4e5e-9043-37f4e7a4f596/public_url"><img src="./icons/ccna-introduction-to-networks.png" height="150"/></a>
-	<img width="150" />
-	<a href="https://www.credly.com/badges/261f9c14-c42e-4b2c-b017-43024d6c825c/public_url"><img src="./icons/network-security.png" height="150"/></a> 
-	<img width="150" />
-	<a href="https://www.credly.com/badges/f8f8015e-b382-4615-843b-74a81e922ff9/public_url"><img src="./icons/computer-hardware-basics.png" height="150"/></a> 
-</div>
+---
 
-<div align="center">
-  <div align="left">
-    <h2>Skills</h2>
-  </div>
-  <img src="./icons/c.svg" height="30" alt="c logo" />
-  <img width="12" />
-  <img src="./icons/cpp.svg" height="30" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="./icons/html.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="./icons/css.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="./icons/js.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="./icons/react.svg" height="30" alt="react" /> 
-  <img width="12" />
-  <img src="./icons/nodejs.svg" height="30" alt="nodejs" /> 
-  <img width="12" />
-  <img src="./icons/php.svg" height="30" alt="php logo" />
-  <img width="12" />
-  <img src="./icons/filezilla.svg" height="30" alt="filezilla logo" />
-  <img width="12" />
-  <img src="./icons/mysql.svg" height="30" alt="mysql" /> 
-  <img width="12" />
-  <img src="./icons/postman.svg" height="30" alt="postman" /> 
-  <img width="12" />
-  <img src="./icons/git.svg" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="./icons/blender.svg" height="30" alt="blender logo" />
-  <img width="12" />
-  <img src="./icons/bash.svg" height="30" alt="bash logo" />
-  <img width="12" />
-  <img src="./icons/linux.svg" height="30" alt="linux logo" />
-  <img width="12" />
-  <img src="./icons/latex.svg" height="30" alt="latex logo" />
-  <img width="12" />
-  <img src="./icons/npm.svg" height="30" alt="npm logo" />
-  <img width="12" />
-  <img src="./icons/photoshop.svg" height="30" alt="photoshop logo" />
-  <img width="12" />
-  <img src="./icons/adobeIlustrator.svg" height="30" alt="illustrator" />
-  <img width="12" />
-  <img src="./icons/putty.svg" height="30" alt="putty logo" />
-  <img width="12" />
-  <img src="./icons/matlab.png" height="30" alt="matlab" />
+### 📫 Connect with me
 
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/rafaelp3re1ra" target="_blank">
+    <img src="./icons/linkedin.svg" alt="LinkedIn" width="30" />
+  </a>
+</p>
 
-<div align="center">
-  <div align="left">
-    <h2>Stats</h2>
-  </div>
+---
+
+### 🏅 Cisco Certificates
+
+<p align="center">
+  <a href="https://www.credly.com/badges/ccc26bc5-efc1-4e5e-9043-37f4e7a4f596/public_url">
+    <img src="./icons/ccna-introduction-to-networks.png" width="120" />
+  </a>
+  <a href="https://www.credly.com/badges/261f9c14-c42e-4b2c-b017-43024d6c825c/public_url">
+    <img src="./icons/network-security.png" width="120" />
+  </a>
+  <a href="https://www.credly.com/badges/f8f8015e-b382-4615-843b-74a81e922ff9/public_url">
+    <img src="./icons/computer-hardware-basics.png" width="120" />
+  </a>
+</p>
+
+---
+
+### 🛠 Skills
+
+<p align="center">
+  <img src="./icons/c.svg" width="30" />
+  <img src="./icons/cpp.svg" width="30" />
+  <img src="./icons/html.svg" width="30" />
+  <img src="./icons/css.svg" width="30" />
+  <img src="./icons/js.svg" width="30" />
+  <img src="./icons/react.svg" width="30" />
+  <img src="./icons/nodejs.svg" width="30" />
+  <img src="./icons/php.svg" width="30" />
+  <img src="./icons/filezilla.svg" width="30" />
+  <img src="./icons/mysql.svg" width="30" />
+  <img src="./icons/postman.svg" width="30" />
+  <img src="./icons/git.svg" width="30" />
+  <img src="./icons/blender.svg" width="30" />
+  <img src="./icons/bash.svg" width="30" />
+  <img src="./icons/linux.svg" width="30" />
+  <img src="./icons/latex.svg" width="30" />
+  <img src="./icons/npm.svg" width="30" />
+  <img src="./icons/photoshop.svg" width="30" />
+  <img src="./icons/adobeIlustrator.svg" width="30" />
+  <img src="./icons/putty.svg" width="30" />
+  <img src="./icons/matlab.png" width="30" />
+</p>
+
+---
+
+### 📊 Stats
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/rafaelp3re1ra/rafaelp3re1ra/output/snake.svg" alt="Snake animation" />
-</div>
+</p>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/rafaelp3re1ra/count.svg?"  />
-</div>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/rafaelp3re1ra/count.svg?" alt="Profile Counter" />
+</p>
