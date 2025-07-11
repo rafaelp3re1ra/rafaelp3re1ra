@@ -30,6 +30,9 @@ I'm a Computer Engineering student specializing in Networks and Systems Administ
   <a href="https://www.credly.com/badges/f8f8015e-b382-4615-843b-74a81e922ff9/public_url">
     <img src="./icons/computer-hardware-basics.png" width="120" />
   </a>
+  <a href="https://www.credly.com/badges/d5819ed1-0406-4951-b834-a097ef77a376/public_url">
+    <img src="./icons/introduction-to-cybersecurity.png" width="120" />
+  </a>
 </p>
 
 ---
