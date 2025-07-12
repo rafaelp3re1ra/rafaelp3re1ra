@@ -70,7 +70,3 @@ I'm Computer Science & Engineering student specializing in Networks and Systems 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rafaelp3re1ra/rafaelp3re1ra/output/snake.svg" alt="Snake animation" />
 </p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/rafaelp3re1ra/count.svg?" alt="Profile Counter" />
-</p>
