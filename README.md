@@ -1,4 +1,4 @@
-## Hello there! I'm Rafael 👋
+## Hello there! 👋
 
 I'm Computer Science & Engineering student specializing in Networks and Systems Administration at the Higher Institute of Engineering of Coimbra.
 
