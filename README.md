@@ -1,6 +1,6 @@
 ## Hello there! I'm Rafael 👋
 
-I'm a Computer Engineering student specializing in Networks and Systems Administration at the Higher Institute of Engineering of Coimbra.
+I'm Computer Science & Engineering student specializing in Networks and Systems Administration at the Higher Institute of Engineering of Coimbra.
 
 <p align="center">
   <img src="giphy.gif" alt="Funny gif" width="200" />
