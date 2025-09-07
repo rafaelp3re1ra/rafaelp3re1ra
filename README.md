@@ -36,6 +36,9 @@ I'm Computer Science & Engineering student specializing in Networks and Systems 
   <a href="https://www.credly.com/badges/b812da9b-664c-428c-8cc3-7b7a31a8f818/public_url">
     <img src="./icons/networking-basics.png" width="120" />
   </a>
+  <a href="https://www.credly.com/badges/990960fb-ae2f-4de5-acbd-55e4c42b6d01/public_url">
+    <img src="./icons/networking-devices-and-initial-configuration.png" width="120" />
+  </a>
 </p>
 
 ---
