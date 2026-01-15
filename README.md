@@ -76,10 +76,3 @@ I'm Computer Science & Engineering student specializing in Networks and Systems 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rafaelp3re1ra/rafaelp3re1ra/output/snake.svg" alt="Snake animation" />
 </p>
-
-<p align="center">
-  <img height=200 align="center" src="https://github-readme-stats-rafaelp3re1ras-projects.vercel.app/api?username=rafaelp3re1ra" />
-</p>
-<p align="center">
-  <img height=200 align="center" src="https://github-readme-stats-rafaelp3re1ras-projects.vercel.app/api/top-langs?username=rafaelp3re1ra&layout=compact&langs_count=8&card_width=320" />
-</p>
